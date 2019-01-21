@@ -1,0 +1,7 @@
+{
+  "name": "mav",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
